@@ -1,0 +1,6 @@
+destination: docs
+
+url: https://djoroya.github.io
+baseurl: /TomatoGrowthModel-slides
+
+exclude: [node_modules,matlab]
